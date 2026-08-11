@@ -28,16 +28,20 @@ I like solving technical problems, but that's not really the point for me — th
 <tr><td width="50%" valign="top">
 
 ### 🏛️ Wealth.com
-**Software Engineer Intern**
+**Software Engineering Intern** · *Jun 2025 – Present*
 
-Full-stack features on a production estate-planning platform — **Next.js/TypeScript** UI, **GraphQL** and **gRPC** services, **Postgres**, CI/CD to Vercel with Datadog monitoring.
+Shipped a flagship Snapshot Report feature demoed to 400+ conference attendees. Led mitigation on a P1 advisor-dashboard outage, root-causing an AppSync payload limit across two repos. Scaffolded a new gRPC calculation service.
+
+`React` `TypeScript` `GraphQL` `AWS` `gRPC` `Datadog`
 
 </td><td width="50%" valign="top">
 
-### 🎓 Honors Thesis
-**USF • IRB-approved study**
+### 🎓 USF Honors College *(IT Support)*
+**Full-Stack Web Developer** · *Jan 2024 – Present*
 
-*Bridging the Feedback Gap* — a Gemini pipeline that codes instructor behavior (COPUS) from classroom video, validated against human raters.
+Build and maintain the core web app used by **2,500+ students and faculty**. Added QR self-check-in and email notifications to an events platform running 200+ events a year, and designed the database behind the graduation application 500+ students use annually.
+
+`C#` `ASP.NET` `React` `TypeScript` `SQL Server` `Entity Framework`
 
 </td></tr>
 </table>
@@ -53,7 +57,7 @@ Full-stack features on a production estate-planning platform — **Next.js/TypeS
 
 ### 🎬 Classroom Analytics `in progress`
 
-Professors rarely get useful feedback on their teaching. This turns lecture video into a readable picture of what happened in the room.
+My honors thesis. Professors rarely get useful feedback on their teaching — this turns lecture video into a readable picture of what happened in the room.
 
 - PII-scrubs and chunks video (`ffmpeg` + Presidio)
 - Codes 12 COPUS behaviors with Gemini on Vertex AI
@@ -68,10 +72,10 @@ Professors rarely get useful feedback on their teaching. This turns lecture vide
 
 Business management platform for a real client who was running everything out of spreadsheets and group chats.
 
-- Multi-role auth with Postgres Row Level Security
-- Kanban + capacity-aware scheduling engine
-- CRM pipeline, realtime notifications
-- I owned the data model and RLS design
+- Inventory, CRM pipeline, Kanban tracking
+- Capacity-aware scheduling with drag-and-drop rescheduling
+- Row-level security design and data model — mine, end to end
+- Built via AI-assisted workflow; I directed and reviewed the implementation, and caught a stale-cache revalidation bug before it shipped
 
 `Next.js` `TypeScript` `Supabase` `Vercel`
 
@@ -87,24 +91,28 @@ Business management platform for a real client who was running everything out of
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<sub>Also: C / C++ / Assembly from CompE coursework · gRPC · Datadog · GitHub Actions · OpenCV</sub>
+<sub>Also: C · C++ · Entity Framework · LINQ · gRPC · WebSockets · GitHub Actions · CUDA (coursework)</sub>
+
+<sub>**AI:** Gemini · Vertex AI · multimodal pipelines · structured-output prompting · Presidio PII redaction · κ-based output validation</sub>
 
 </div>
 
