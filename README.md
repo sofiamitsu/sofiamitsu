@@ -23,7 +23,7 @@ class Sofia:
         self.school      = "University of South Florida — Judy Genshaft Honors College"
         self.graduating  = "May 2027"
         self.working_on  = ["SWE Internship @ Wealth.com", "Honors Thesis 📚"]
-        self.languages   = ["🇧🇷 Portuguese", "🇺🇸 English", "🇯🇵 Japanese"]
+        self.languages   = ["🇧🇷 Portuguese", "🇺🇸 English"]
         self.fuel        = ["fresh bread 🍞", "harmonies 🎶", "a very full Notion"]
 
     def what_i_care_about(self):
