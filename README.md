@@ -88,6 +88,7 @@ Business management platform for a real client who was running everything out of
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -103,21 +104,21 @@ Business management platform for a real client who was running everything out of
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<sub>Also: C / C++ / Assembly from CompE coursework · gRPC · Datadog · GitHub Actions</sub>
+<sub>Also: C / C++ / Assembly from CompE coursework · gRPC · Datadog · GitHub Actions · OpenCV</sub>
 
 </div>
 
 ---
 
-## 📊 Stats
+## 🌈 Outside the terminal
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sofiamitsu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF6B9D&text_color=E5E7EB" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamitsu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&langs_count=6" />
+📚 **CS education** · 🌍 **Brazilian, bilingual PT/EN** · 🧁 **Baking** · 🎤 **Singing**
 
 </div>
 
+---
 
 ## 💬 Let's connect
 
