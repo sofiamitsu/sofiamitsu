@@ -118,48 +118,6 @@ Business management platform for a real client who was running everything out of
 
 </div>
 
----
-
-## 🌈 Outside the terminal
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 📚
-**CS Education**
-
-How people learn to code. It's the reason my thesis exists.
-
-</td>
-<td align="center" width="25%">
-
-### 🌍
-**Languages & Culture**
-
-Brazilian, bilingual PT/EN. Most problems I care about are translation problems.
-
-</td>
-<td align="center" width="25%">
-
-### 🧁
-**Baking**
-
-Long feedback loops, and sometimes it collapses for no clear reason. Familiar.
-
-</td>
-<td align="center" width="25%">
-
-### 🎤
-**Singing**
-
-Best way I know to reset after a long week.
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💬 Let's connect
 
