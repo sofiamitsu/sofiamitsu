@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:C084FC,50:60A5FA,75:34D399,100:FBBF24&height=200&section=header&text=Hi%2C%20I'm%20Sofia!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20USF%20•%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=I+like+solving+problems.+I+like+people+more.;Full-stack+%E2%80%94+Next.js%2C+TypeScript%2C+Python;Honors+thesis%3A+AI+for+classroom+feedback" alt="Typing SVG" />
 
 <br/>
 
